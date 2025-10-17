@@ -1,0 +1,4 @@
+Hello.class
+Hello.java
+out.txt
+asd
